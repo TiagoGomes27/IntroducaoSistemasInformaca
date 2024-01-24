@@ -1,0 +1,5 @@
+Conteúdos a lecionar:
+- Git
+- GitHub
+- ...
+- CVS
